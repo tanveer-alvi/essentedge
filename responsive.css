@@ -1,0 +1,352 @@
+@media (max-width: 479px) and (min-width: 320px){
+.desktop{
+    display: none;
+}
+.top .container{
+    padding: 0;
+    margin: 0;
+}
+.top{
+    padding: 15px;
+    width: 100%;
+    
+}
+.res-header{
+    margin-right: 14px;
+}
+.fa-bars{
+    
+        float: right;
+        position: absolute;
+        top: 8px;
+        right: 0;
+        font-size: 29px;
+    }
+    .top .container .col-sm-4{
+        
+            position: relative;
+            min-height: 1px;
+            padding-right: 0;
+            padding-left: 0;
+            float: left;
+        
+    }
+    .header-logo{
+        padding-top: 4px;
+    }
+.fa-icon{
+    display: block;
+    color: brown;
+}
+    .res-header{
+        
+            position: absolute;
+            top: 56px;
+            right: -30px;
+        
+    }
+    .bg-image{
+        width: 100%px;
+    height: 182px;
+    }
+    .bg-content h3 {
+        font-size: 42px;
+        margin: 0px;
+        width: 100%;
+    }
+    .bg-content button{
+        display: none;
+    }
+    .res-btn{
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .res-btn button{
+        background-color: #f37778;
+    padding: 6px;
+    color: #ffffff;
+    border-radius: 6px;
+    border: transparent;
+    width: 152px;
+    display: block;
+        margin-top: 0px;
+    }
+    .footer .container p{
+        font-size: 8px;
+    }
+    .footer .container h5{
+        font-size: 8px;
+    }
+    .footer .container{
+        padding: 0;
+    }
+    .foot h2{
+        font-size: 10px;
+    }
+    .foot p{
+        font-size: 9px;
+    }
+    .foot p span{
+        font-size: 8px;
+    }
+    .customLayout ul{
+        padding-left: 29px;
+    }
+    .customLayout ul li{
+        font-size: 12px;
+        color: #fff;
+    }
+    .customLayout h2{
+        font-size: 14px;
+    }
+    .beverly-hills-cont p {
+        font-size: 11px !important;
+        line-height: 138%;
+    }
+    .angle-bg{
+        width: 100%;
+    }
+    .footer{
+        width: 100%;
+        padding-bottom: 15px;
+    padding-top: 15px;
+    }
+    /*new-york*/
+    .bg-content-new-york button{
+        display: none;
+    }
+    .bg-content-new-york h3{
+        width: 100%;
+    font-size: 50px;
+    }
+    .bg-image-nyc{
+        width: 100%;
+        height: 450px;
+    }
+    .bg-image-nyc .container{
+        padding: 0px;
+    }
+    .custom-padd ul{
+        padding-left:17px; 
+    }
+    /*section jackson*/
+    .bg-image-jackson .container{
+        
+            padding-left: 15px;
+            margin-right: auto;
+            margin-left: auto;
+    }
+    .angle-bg .container{
+        padding: 0px;
+    }
+    .angle-bg h2{
+        margin-left: 14px;
+    }
+    .new-york-list {
+        margin-left: 13px;
+    }
+    .bg-image-jackson{
+        width: 100%;
+        height: 450px;
+    }
+    /*section rules*/
+    .bg-content-rules button{
+        display: none;
+    }
+    .bg-image-rules{
+        width: 100%;
+        height: 550px;
+    }
+    .bg-content-rules h3{
+        font-size: 43px
+        
+    }
+    .grand-prize p{
+        font-size: 11px !important;
+    }
+    .weekly p{
+        
+        width: 91%;
+    }
+    .weekly h3{
+        font-size: 31px;
+    }
+    .bg-image-prizes-2{
+        width: 100%;
+        height: 255px;
+    }
+    .grand-links ul li a{
+        font-size: 13px !important;
+    }
+    .grand-text p{
+        width: 93%;
+    font-size: 13px !important;
+    }
+    .official-rules p{
+        line-height: 130%;
+        font-size: 13px !important;
+    }
+    .bg-content-rules h3{
+        margin-top: 0;
+        padding-top: 0;
+    }
+    .bg-image-prizes{
+        width: 100%;
+    }
+    .prizeImg1{
+        margin-top: 30px;
+        margin-right: 0;
+        width: 100%;
+    }
+    .prizeImg2{
+        margin-top: 30px;
+        margin-right: 0;
+        width: 100%;
+    }
+    .prizeImg3{
+        margin-top: 30px;
+        margin-right: 0;
+        width: 100%;
+    }
+    .container .for-padding{
+        padding: 0;
+    }
+
+    /*section win trip*/
+    .prizeimgCon .col-sm-4{
+        padding: 0px;
+    }
+    .pink-heading{
+        line-height: 116%;
+        font-size: 28px;
+    }
+    .pink-text{
+        line-height: 116%;
+        font-size: 18px;
+    }
+    .pink-sub-text {
+        font-size: 18px;
+        line-height: 116%;
+    }
+    .textWin h3{
+        font-size: 18px;
+        line-height: 116%;
+    }
+    .textWin p{
+        font-size: 15px;
+        line-height: 116%;
+    }
+    .embed-container{
+        height: 150px;
+       
+    }
+}
+@media (max-width: 574px) and (min-width: 480px){
+    .top{
+        padding: 0;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+}
+@media (max-width: 684px) and (min-width: 575px){
+
+}
+@media (max-width: 767px) and (min-width: 685px){
+
+}
+@media (max-width: 991px) and (min-width: 768px){
+
+.bg-image{
+    width: 100%;
+    height: 385px;
+}
+.bg-content h3{
+    font-size: 92px;
+}
+.desktop ul{
+    margin: 0;
+    float: inherit;
+}
+.desktop ul li a{
+    padding: 0;
+}
+.bg-content h3{
+    width: auto;
+}
+.bg-content-new-york h3{
+    font-size: 85px;
+    width: auto;
+}
+.weekly p{
+    width: auto;
+}
+.foot h2{
+    line-height: 20px;
+}
+.prizeImg1{
+    width: 100%;
+}
+.prizeImg2{
+    width: 100%;
+}
+.prizeImg3{
+    width: 100%;
+}
+.top{
+    padding-left: 0;
+    padding-right: 0;
+}
+.top .col-sm-4{
+    padding: 0;
+    
+}
+
+.navbar{
+    margin-left: 0px;
+}
+.background-pink .container{
+    width: 748px;
+}
+.footer .container{
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 748px;
+}
+    
+}
+@media (max-width: 1023px) and (min-width: 992px){
+
+}
+@media (max-width: 1199px) and (min-width: 1024px){
+.bg-image{
+    height: 431px;
+}
+.desktop ul{
+    float: initial;
+}
+.col-sm-5 .header-logo{
+    padding-top: 12px;
+}
+.desktop ul{
+    padding-top: 18px;
+    margin: 0px;
+    display: -webkit-inline-box;
+}
+.desktop ul li a{
+    padding: 2px 5px;
+}
+.prizeImg1{
+    margin-right: 0px;
+    width: 100%;
+}
+.prizeImg2{
+    margin-right: 0px;
+    width: 100%;
+}
+.prizeImg3{
+    margin-right: 0px;
+    width: 100%;
+}
+
+
+}
